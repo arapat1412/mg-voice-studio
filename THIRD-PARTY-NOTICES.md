@@ -29,6 +29,7 @@ Danh sách này là ghi nhận nguồn gốc, không thay thế giấy phép ri�
 thư viện/model. Giấy phép Apache 2.0 của VieNeu-TTS không tự áp dụng cho tất
 cả thành phần khác.
 
-Hiện kho này chỉ chứa tài liệu và ảnh giới thiệu, chưa phân phối bộ cài.
+Bộ cài được phân phối qua GitHub Releases.
 Mỗi bộ cài phát hành cần giữ các tệp giấy phép/thông báo của thành phần được
 đóng gói và có danh sách phụ thuộc tương ứng với đúng bản dựng đó.
+
