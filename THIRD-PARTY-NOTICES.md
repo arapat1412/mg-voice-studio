@@ -14,6 +14,10 @@ hàng đợi, lịch sử bản thu và thao tác xóa, biểu tượng nam/nữ
 
 ## Các thành phần sử dụng
 
+Từ 3.9.0, bản desktop thêm kích hoạt offline, công cụ cấp key riêng cho chủ app
+và kiểm tra tính toàn vẹn có chữ ký của mã ứng dụng. Các thành phần mã nguồn mở
+tiếp tục giữ giấy phép tương ứng.
+
 Các thành phần có thể có trong bộ cài hoặc được tải khi sử dụng gồm:
 
 - Python và các thư viện Python phục vụ giao diện/xử lý audio, gồm Gradio,

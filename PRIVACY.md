@@ -23,7 +23,15 @@ chủ đã cấu hình; nhận định xử lý cục bộ ở trên không áp 
 `VIENEU_HOME` có thể thay đổi vị trí này. Khi chạy trực tiếp từ mã nguồn,
 thư mục mặc định là `%USERPROFILE%\.vieneu`.
 
-## Xóa dữ liệu
+## Dữ liệu license (từ 3.9.0)
+
+License offline lưu mã máy (băm từ Windows MachineGuid), mốc bắt đầu dùng thử,
+mốc giờ đã kiểm tra và key tại `%PROGRAMDATA%\MGVoiceStudio\Licensing` cùng
+registry HKLM `SOFTWARE\MGVoiceStudio\Licensing`. Không tự gửi các dữ liệu này
+đến máy chủ license. Khi xin key, bạn chủ động gửi mã máy qua Zalo 0933987800.
+Các mốc license được giữ sau khi gỡ app để không đặt lại thời gian dùng thử.
+
+## Xóa lịch sử và dự án
 
 Tab Lịch sử cho phép xóa bản đang chọn hoặc xóa các bản được liệt kê trong
 xác nhận xóa toàn bộ. Thao tác này xóa file của bản thu trong thư mục `history`.

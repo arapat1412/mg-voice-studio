@@ -7,7 +7,10 @@ soạn thảo, thư viện giọng và lịch sử bản thu.
 
 ## Tải xuống
 
-**[Tải MG Voice Studio 3.8.2 cho Windows x64](https://github.com/arapat1412/mg-voice-studio/releases/download/v3.8.2/MGVoiceStudio-Setup.exe)**
+**[Tải MG Voice Studio 3.9.0 cho Windows x64](https://github.com/arapat1412/mg-voice-studio/releases/download/v3.9.0/MGVoiceStudio-Setup.exe)**
+
+**Dùng thử 24 giờ/máy** từ lần mở đầu tiên. Sau đó liên hệ **Zalo 0933987800**
+để được cấp key theo số ngày. Xem [Hướng dẫn kích hoạt](ACTIVATION.md).
 
 Các bộ cài được đăng tại [GitHub Releases](https://github.com/arapat1412/mg-voice-studio/releases).
 Đây là kho giới thiệu và phân phối ứng dụng. File `.exe` được đính kèm từng
@@ -32,7 +35,7 @@ bản thu; luồng đọc SRT xuất mốc thời gian theo các câu đã tổn
 
 Dành cho **Windows x64**:
 
-1. Tải bộ cài từ mục Releases và cài ứng dụng.
+1. Tải bộ cài từ mục Releases và cài ứng dụng (cần quyền quản trị).
 2. Mở ứng dụng, chọn model và thiết bị xử lý rồi bấm **Tải model**.
 3. Chọn giọng, nhập nội dung và bấm **Tạo giọng nói**.
 4. Mở **Lịch sử** để nghe và tải lại các bản hoàn tất.
