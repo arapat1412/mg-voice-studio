@@ -1,0 +1,15 @@
+# Installers belong in GitHub Releases.
+*.exe
+*.zip
+*.7z
+*.msi
+
+# Local/private data is never part of this release repository.
+.env
+.env.*
+*.log
+__pycache__/
+.venv/
+history/
+projects/
+models/
